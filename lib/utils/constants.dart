@@ -15,6 +15,9 @@ const String addReceipientText = 'Add recipient';
 const String confirmText = 'Confirm';
 const String pretendardFonts = "Pretendard";
 const String youCanNow = "You can now";
+const String looksYoureNewText = "Looks like you're new here!";
+const String orText = "Or";
+
 const String idleText =
     "You were logged out after 2 mins of being inactive.";
 const String alreadyHaveAnAccountText = 'Already have an account?';

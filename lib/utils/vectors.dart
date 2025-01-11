@@ -1,4 +1,4 @@
-class VircapVectors {
+class LanceVectors {
   // Icons
   static const String eyeIcon = 'assets/images/svgs/icons/eye_icon.svg';
   static const String markIcon = 'assets/images/svgs/icons/mark_icon.svg';
@@ -17,12 +17,13 @@ class VircapVectors {
 
   static const String delUser = 'assets/images/svgs/del-user.svg';
 
+  static const String checkIcon = 'assets/icons/check.svg';
   static const String bitcoinCardIcon = 'assets/images/svgs/bitcoin-card.svg';
   static const String coinCardIcon = 'assets/images/svgs/coin-card.svg';
   static const String walletCardIcon = 'assets/images/svgs/wallet-card.svg';
   static const String crossIcon = 'assets/images/svgs/cross-icon.svg';
   static const String warningIcon = 'assets/images/svgs/warning-icon.svg';
-  static const String vircapLogo = 'assets/images/svgs/vircap-logo.svg';
+  static const String lanceIcon = 'assets/icons/app_icon.svg';
   static const String emptyWallet = 'assets/images/svgs/empty-wallet.svg';
   static const String check = 'assets/images/svgs/check.svg';
   static const String naira = 'assets/images/svgs/naira.svg';

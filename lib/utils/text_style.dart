@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lance/utils/constants.dart';
 
-class VircapTextStyle {
+class LanceTextStyle {
   static const textSize10 = TextStyle(
     fontSize: 10.0,
     fontWeight: FontWeight.w400,

@@ -1,20 +1,19 @@
 import 'package:flutter/material.dart';
 
 class LanceColors {
-  static const secondaryColor = Color(0xff1c1075);
-  static const secondaryColor5 = Color(0xff160C5F);
-  static const secondaryColor2 = Color.fromRGBO(85, 76, 220, 1);
-  static const secondaryColor3 = Color(0xff736AF7);
-  static const secondaryColor4 = Color(0xffF8F7FF);
-  static const primaryColor = Color(0xff554CDC);
-  static const lightPurpleColor = Color(0xffACA0FF);
+
+  static const Color primaryColor = Color(0xFF0D3B66);
+  static const Color secondaryColor = Color(0xFF54ACFF);
+  static const Color textColor = Color(0xFF333333);
+  static const Color borderColor = Color(0xFFe6e6e6);
+  static const Color hintColor = Color(0xFFb2b2b2);
+  static const Color invoiceBackgroundColor = Color(0xFFe6f0f9);
+  static Color drawerItemBackgroundColor = Color(0xFFd9ecff).withOpacity(0.05);
 
   static const lightPurpleColor2 = Color.fromRGBO(172, 168, 200, 1);
   static const textPurpleColor = Color(0xffD6D0FF);
-  static const textColor = Color(0xff677489);
   static const textColor2 = Color(0xff352C76);
   static const textColor3 = Color(0xff4B4484);
-  static const borderColor = Color(0xffcdd5e0);
   static const blackColor = Color(0xff364154);
   static const greenColor = Color(0xff54b685);
   static const green2Color = Color(0xff54B685);
